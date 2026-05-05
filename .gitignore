@@ -1,0 +1,26 @@
+# Python .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+venv/
+
+# dotenv
+.env
+
+# macOS
+.DS_Store
+
+# SQLite database files
+*.db
+
+# Static files
+static/
